@@ -1,0 +1,11 @@
+Mokinys Nr.1 Ivertinimai:    7 10  9  8  4  6
+Mokinys Nr.2 Ivertinimai:    8 10 10 10  5  6
+Mokinys Nr.3 Ivertinimai:    3  4  1  5  6  8
+Mokinys Nr.4 Ivertinimai:   10  7  8  6  3  7
+Mokinys Nr.5 Ivertinimai:   10  4  8  6  7  9
+Mokinys Nr.6 Ivertinimai:   10 10  8 10  9 10
+Mokinys Nr.7 Ivertinimai:    7  2  9  2  2  5
+Mokinys Nr.8 Ivertinimai:    4  5  6  7  8  9
+Daugiausiai desimtuku turintis mokinys Nr: 6
+Daugiausia desimtuku turincio mokinio desimtuku kiekis: 4
+Mokiniu kiekis neturintys neigiamu pazymiu: 5
